@@ -1,0 +1,50 @@
+.btn {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  box-sizing: border-box;
+  transition: all .2s ease-in-out;
+
+  &-sm {
+    font-size: 12px;
+    padding: .25rem .5rem;
+  }
+
+  &-lg {
+    font-size: 20px;
+    padding: .5rem 1rem;
+  }
+
+  &-primary {
+    background-color: #f27a1a;
+
+    &.active, &:hover, &:focus {
+      background-color: #ff8b39;
+    }
+  }
+
+  &-secondary {
+    color: #666;
+    border-color: #dedede;
+
+    &.active, &:hover, &:focus {
+      color: #f27a1a;
+      border-color: #f27a1a;
+    }
+  }
+}

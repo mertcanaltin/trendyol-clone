@@ -1,0 +1,111 @@
+.header-main {
+  .header-bottom {
+    position: relative;
+    z-index: 1001;
+    border-bottom: 1px solid #e8e8e8;
+
+    .category-nav {
+      .category-nav-items {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+        .category-nav-item {
+          position: initial;
+
+          .category-nav-link {
+            display: flex;
+            padding: 12px 6px;
+            border-bottom: 2px solid transparent;
+            color: #333;
+            font-size: 14px;
+            font-weight: 600;
+            text-decoration: none;
+            text-transform: uppercase;
+
+            &:hover {
+              color: #f27a1a;
+              border-color: #f27a1a;
+            }
+          }
+        }
+      }
+    }
+
+    .category-subnav {
+      position: absolute;
+      top: 40px;
+      left: 0;
+      z-index: 999;
+      display: flex;
+      justify-content: space-between;
+      width: calc(100% - 50px);
+      height: 300px;
+      padding: 25px;
+      background-color: #fff;
+      border: 1px solid #e6e6e6;
+      border-top-color: transparent;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+
+      &-wrapper {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+      }
+
+      &-col {
+        display: flex;
+        flex-direction: column;
+
+        .category-subnav-title {
+          font-size: 16px;
+          font-weight: 600;
+          color: #333;
+          text-decoration: none;
+        }
+
+        ul {
+          margin-top: 6px;
+
+          li {
+            padding-bottom: 4px;
+
+            a {
+              font-size: 13px;
+              color: #666;
+              text-decoration: none;
+
+              &:hover {
+                color: #f27a1a;
+                text-decoration: underline;
+                transition: all linear 0.2s;
+              }
+            }
+          }
+        }
+      }
+
+      &-campaign {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        a {
+          display: flex;
+
+          img {
+            width: 265px;
+            height: 137px;
+            border-radius: 6px;
+            transition: all 1s ease;
+
+            &:hover {
+              transform: scale(1.015);
+            }
+          }
+        }
+      }
+    }
+  }
+}

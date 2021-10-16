@@ -1,0 +1,53 @@
+@import 'reset';
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.icon-container {
+  position: relative;
+  font-size: 16px;
+
+  .initial-icon {
+    opacity: 1;
+    transition: opacity 0.4s ease;
+  }
+
+  .hover-icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+  }
+}
+
+.account-nav-item {
+  padding: 12px 0;
+}
+
+.account-nav-item:hover {
+  .icon-container {
+    .initial-icon {
+      opacity: 0;
+    }
+
+    .hover-icon {
+      opacity: 1;
+    }
+  }
+}
+
+.dropdown {
+  position: relative;
+
+  .dropdown-menu {
+    display: none;
+  }
+
+  &:hover {
+    .dropdown-menu {
+      display: block;
+    }
+  }
+}

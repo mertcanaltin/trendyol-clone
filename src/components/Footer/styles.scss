@@ -1,0 +1,139 @@
+.footer-popular {
+    padding: 30px 0;
+    color: #333;
+    background: #fff;
+    border-top: 1px solid #d4d4d4;
+
+    .footer-popular-title {
+        font-size: 22px;
+        margin: 10px 0 20px;
+    }
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        li {
+            flex: 0 26%;
+            margin: 3px 0 5px;
+
+            a {
+                font-size: 13px;
+                color: #333;
+                text-decoration: none;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+.footer {
+    color: #fff;
+    background: #000;
+    padding: 50px 0;
+
+    .footer-row {
+        display: flex;
+        justify-content: space-between !important;
+    }
+
+    .footer-col {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .footer-title {
+        font-size: 22px;
+        padding-bottom: 5px;
+        margin: 0 0 20px 0;
+    }
+
+    .footer-subtitle {
+        font-size: 17px;
+        font-weight: 600;
+        margin-top: 32px;
+        margin-bottom: 24px;
+    }
+
+    ul.footer-list {
+        li {
+
+            margin: 20px 0 0;
+
+            a {
+                font-size: 13px;
+                color: #fff;
+                text-decoration: none;
+
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+    ul.footer-secure-payment {
+        display: flex;
+
+        li {
+            margin-right: 6px;
+            img {
+                height: 26px;
+            }
+        }
+    }
+
+    ul.footer-social-media {
+        display: flex;
+
+        li {
+            margin-right: 8px;
+            img {
+                height: 25px;
+            }
+        }
+    }
+
+    ul.footer-apps {
+        li {
+            margin-bottom: 10px;
+            img {
+                width: 150px;
+            }
+        }
+    }
+
+    ul.footer-badges {
+        display: flex;
+        margin-top: 25px;
+
+        li {
+            display: flex;
+            align-items: center;
+            margin-right: 16px;
+        }
+    }
+}
+
+.footer-band {
+    font-size: 12px;
+    color: #fff;
+    background: #2d2d2d;
+    padding: 12px;
+
+    ul {
+        display: flex;
+        li {
+            padding: 0 10px;
+
+            a {
+                color: #fff;
+                text-decoration: none;
+            }
+        }
+    }
+}

@@ -1,4 +1,4 @@
-import {Container} from "react-grid-system";
+import { Container } from "react-grid-system";
 
 import "./style.scss";
 
@@ -16,48 +16,53 @@ const HeaderBottom = () => {
                 <div className="category-subnav">
                   <div className="category-subnav-wrapper">
                     <div className="category-subnav-col">
-                      <a className="category-subnav-title" href="#top">Giyim</a>
+                      <a className="category-subnav-title" href="#top">
+                        Giyim
+                      </a>
                       <ul>
                         <li>
-                          <a href="#top">
-                            Elbise
-                          </a>
+                          <a href="#top">Elbise</a>
                         </li>
                         <li>
-                          <a href="#top">
-                            Elbise
-                          </a>
+                          <a href="#top">Elbise</a>
                         </li>
                         <li>
-                          <a href="#top">
-                            Elbise
-                          </a>
+                          <a href="#top">Elbise</a>
                         </li>
                       </ul>
-
                     </div>
                     <div className="category-subnav-col">
-                      <a className="category-subnav-title" href="#top">Giyim</a>
+                      <a className="category-subnav-title" href="#top">
+                        Ayakkabı
+                      </a>
                     </div>
                     <div className="category-subnav-col">
-                      <a className="category-subnav-title" href="#top">Giyim</a>
+                      <a className="category-subnav-title" href="#top">
+                        Aksesuar&Çanta
+                      </a>
                     </div>
                     <div className="category-subnav-col">
-                      <a className="category-subnav-title" href="#top">Giyim</a>
+                      <a className="category-subnav-title" href="#top">
+                        İç Giyim
+                      </a>
                     </div>
                     <div className="category-subnav-col">
-                      <a className="category-subnav-title" href="#top">Giyim</a>
+                      <a className="category-subnav-title" href="#top">
+                        Kozmetik
+                      </a>
                     </div>
                     <div className="category-subnav-campaign">
                       <a href="#top">
                         <img
                           src="https://cdn.dsmcdn.com/mnresize/500/247/ty175/campaign/banners/original/582354/dbddf0cac5_0_detay.jpg"
-                          alt=""/>
+                          alt=""
+                        />
                       </a>
                       <a href="#top">
                         <img
                           src="https://cdn.dsmcdn.com/mnresize/500/247/ty175/campaign/banners/original/582354/dbddf0cac5_0_detay.jpg"
-                          alt=""/>
+                          alt=""
+                        />
                       </a>
                     </div>
                   </div>
@@ -114,6 +119,6 @@ const HeaderBottom = () => {
       </Container>
     </div>
   );
-}
+};
 
 export default HeaderBottom;

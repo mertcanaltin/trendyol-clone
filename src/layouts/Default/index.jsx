@@ -9,7 +9,7 @@ const DefaultLayout = (s) => {
     <div className="app">
       <div className="container mx-auto">
         <Header />
-        <HomeProducts/>
+        <HomeProducts />
       </div>
       <Footer />
     </div>

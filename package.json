@@ -20,6 +20,7 @@
     "redux-promise-middleware": "^6.1.2",
     "redux-thunk": "^2.3.0",
     "sass": "^1.40.1",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^1.0.1"
   },
   "scripts": {

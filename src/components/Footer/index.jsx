@@ -67,64 +67,208 @@ const Footer = () => {
                 <li>
                   <a href="#top">Joker</a>
                 </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
               </ul>
             </Col>
             <Col>
               <div className="footer-popular-title">Popüler Sayfalar</div>
               <ul>
                 <li>
-                  <a href="#top">Cep Telefonu</a>
+                  <a href="#top">Boyner</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone</a>
+                  <a href="#top">Idefix</a>
                 </li>
                 <li>
-                  <a href="#top">Samsung Cep Telefonu</a>
+                  <a href="#top">Teknosa</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone 12</a>
+                  <a href="#top">Tekzen</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone 11</a>
+                  <a href="#top">E-Bebek</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone X</a>
+                  <a href="#top">Joker</a>
                 </li>
                 <li>
-                  <a href="#top">Cep Telefonu</a>
+                  <a href="#top">Boyner</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone</a>
+                  <a href="#top">Idefix</a>
                 </li>
                 <li>
-                  <a href="#top">Samsung Cep Telefonu</a>
+                  <a href="#top">Teknosa</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone 12</a>
+                  <a href="#top">Tekzen</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone 11</a>
+                  <a href="#top">E-Bebek</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone X</a>
+                  <a href="#top">Joker</a>
                 </li>
                 <li>
-                  <a href="#top">Cep Telefonu</a>
+                  <a href="#top">Boyner</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone</a>
+                  <a href="#top">Idefix</a>
                 </li>
                 <li>
-                  <a href="#top">Samsung Cep Telefonu</a>
+                  <a href="#top">Teknosa</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone 12</a>
+                  <a href="#top">Tekzen</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone 11</a>
+                  <a href="#top">E-Bebek</a>
                 </li>
                 <li>
-                  <a href="#top">iPhone X</a>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
+                </li>
+                <li>
+                  <a href="#top">Boyner</a>
+                </li>
+                <li>
+                  <a href="#top">Idefix</a>
+                </li>
+                <li>
+                  <a href="#top">Teknosa</a>
+                </li>
+                <li>
+                  <a href="#top">Tekzen</a>
+                </li>
+                <li>
+                  <a href="#top">E-Bebek</a>
+                </li>
+                <li>
+                  <a href="#top">Joker</a>
                 </li>
               </ul>
             </Col>

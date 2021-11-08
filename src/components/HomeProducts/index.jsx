@@ -9,8 +9,8 @@ export default function HomeProducts() {
       <div class="grid-cols-2 gap-4 mb-10 flex">
         <div>
           <img
-            className="home-banner-img rounded h-full"
-            height="240"
+            className="home-banner-img rounded h-72"
+
             src="https://cdn.dsmcdn.com/marketing/datascience/automation/2021/11/8/FlasURuNlerWeb_202111080855.gif"
             alt="img"
           ></img>
@@ -21,10 +21,10 @@ export default function HomeProducts() {
         </div>
       </div>
 
-      <div class=" grid-cols-2 gap-4 mt-16 mb-10 flex">
+      <div class=" grid-cols-2 gap-4 mt-7 mb-10 flex">
         <div>
           <img
-            className="home-banner-img rounded h-full"
+            className="home-banner-img rounded h-72"
             src="https://cdn.dsmcdn.com/marketing/datascience/automation/2021/11/8/Derimod_2087023_Web_202111081006.jpg"
             alt="img"
           ></img>
@@ -34,10 +34,10 @@ export default function HomeProducts() {
           <Slick />
         </div>
       </div>
-      <div class=" grid-cols-2 gap-4 mt-16 mb-10 flex">
+      <div class=" grid-cols-2 gap-4 mt-7 mb-10 flex">
         <div>
           <img
-            className="home-banner-img rounded h-full"
+            className="home-banner-img rounded h-72"
             src="https://cdn.dsmcdn.com/marketing/datascience/automation/2021/11/8/AquadipolosaatGunesgozlugu_2090449_Web_202111081035.jpg"
             alt="img"
           ></img>

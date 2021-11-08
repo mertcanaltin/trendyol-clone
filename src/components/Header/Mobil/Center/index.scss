@@ -1,0 +1,49 @@
+.search-autofill {
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e6e6e6;
+  box-sizing: border-box;
+  position: relative;
+  top: -1px;
+}
+.search-autofill__input-container {
+  svg {
+    font-size: 17px !important;
+  }
+  flex-grow: 1;
+  border-radius: 5px;
+  border: 1px solid #e6e6e6;
+  overflow: hidden;
+  padding: 10px;
+  background-color: #fff;
+  box-sizing: border-box;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+  height: 40px;
+  margin: 0 15px 14px;
+}
+.search-autofill__icon {
+  color: #999;
+  margin-right: 10px;
+  font-size: 16px;
+}
+.search-autofill__input {
+  align-items: center;
+  width: calc(100% - 30px);
+  border: none;
+  box-sizing: border-box;
+  font-size: 14px;
+  outline: none;
+  color: #999;
+}
+.search-autofill__input::placeholder {
+  color: #999;
+}
+span {
+  margin: 0;
+}
+span {
+  margin: 0;
+}

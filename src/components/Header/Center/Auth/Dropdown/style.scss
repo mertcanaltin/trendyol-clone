@@ -1,0 +1,46 @@
+.auth-dropdown.dropdown-menu {
+  position: absolute;
+  top: 40px;
+  left: -67px;
+  z-index: 1002;
+  width: 196px;
+  height: auto;
+  padding: 15px;
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 6px;
+  box-shadow: 0 3px 10px 0 rgb(0 0 0 / 7%);
+
+  .btn:first-child {
+    margin-bottom: 10px;
+  }
+
+  &:before, &:after {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    display: inline-block;
+    content: "";
+    border-top: 0;
+  }
+
+  &:before {
+    color: #e6e6e6;
+    margin-left: -9px;
+    vertical-align: 9px;
+    border-bottom: 9px solid;
+    border-right: 9px solid transparent;
+    border-left: 9px solid transparent;
+  }
+
+  &:after {
+    color: #fff;
+    margin-left: -8px;
+    vertical-align: 8px;
+    border-bottom: 8px solid;
+    border-right: 8px solid transparent;
+    border-left: 8px solid transparent;
+  }
+}

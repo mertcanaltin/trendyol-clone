@@ -3,7 +3,7 @@ import TopBanner from "./TopBanner";
 import HeaderTop from "./Top";
 import HeaderCenter from "./Center";
 import HeaderBottom from "./Bottom";
-import Mobil from './Mobil/Top';
+import Mobil from './Mobil';
 import "./style.scss";
 
 const Header = () => {

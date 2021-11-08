@@ -1,0 +1,34 @@
+.loaded_image {
+  -webkit-transition: opacity 0.2s ease-in-out;
+  -moz-transition: opacity 0.2s ease-in-out;
+  -ms-transition: opacity 0.2s ease-in-out;
+  -o-transition: opacity 0.2s ease-in-out;
+  opacity: 1 !important;
+  transition: opacity 0.2s ease-in-out;
+}
+.preload_image {
+  opacity: 0;
+
+}
+.boutique {
+    list-style: none;
+  margin-bottom: 3px;
+  background: url("https://cdn.dsmcdn.com/mweb/master/default_placeholder.5b423338f74da23338e49ead05d8c6d5.jpg");
+  background-size: cover;
+  border-bottom: 1px solid #00000009;
+  position: relative;
+  overflow: hidden;
+}
+.boutique:not(.banner-widget) {
+  height: 49.18033vw;
+}
+.boutique a {
+  display: grid;
+}
+.boutique__image {
+  width: 100%;
+  float: left;
+}
+.lazyload_disable {
+  opacity: 1 !important;
+}
